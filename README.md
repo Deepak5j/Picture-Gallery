@@ -1,2 +1,2 @@
 # Picture-Gallery
-Upload and view picture collections
+Upload and view picture collections.

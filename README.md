@@ -1,2 +1,5 @@
 # Picture-Gallery
-Upload and view picture collections.
+##
+* Upload and view pictures.
+* Uploading and Acessing Images from data base
+* Jsp and Servlets

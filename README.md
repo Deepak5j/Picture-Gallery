@@ -5,7 +5,6 @@
 #
 #### created for helping friend : )
 #
-#
 ![UploadScreenShot](https://github.com/Deepak5j/Picture-Gallery/blob/master/ScreenShots/upload.png)
 #
 ![AccessScreenShot](https://github.com/Deepak5j/Picture-Gallery/blob/master/ScreenShots/access.png)
